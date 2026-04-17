@@ -3,7 +3,7 @@
   high-performing websites, with a strong focus on unique designs<br>
   and effective SEO strategies.</p>
 
-  ## Skills and Languages
+  ## Stack
   #### FE
    - HTML
    - CSS

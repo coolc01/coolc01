@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hi, Im Dev CoolC
+<p>A full-stack developer passionate about building reliable,<br>
+  high-performing websites, with a strong focus on unique designs<br>
+  and effective SEO strategies.</p>
 
+  ## Skills and Languages
+  #### FE
+   - HTML
+   - CSS
+   - BOOTSTRAP
+   - JAVASCRIPT
+   - JQUERY
 
-**coolc01/coolc01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ### BE
+   - NODEJS
+   - PHP
+   - SQL/MYSQL
+   - LARAVEL
 
-Here are some ideas to get you started:
+  ### TOOLS
+   #### VCS
+   - GIT
+   - GITHUB
+   - GITLAB
+   - BITBUCKET
+     #### API TEST
+     - POSTMAN
+     - CURL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+       ```
+         #PHP whoami.php
+       sprintf("hi %s am a fuulstack developer!", "Dev. CoolC");
+       ```
+     - CURL
+   - 
